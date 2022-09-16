@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1019153374996",
+    "project_id": "eventneedz-d6a56",
+    "storage_bucket": "eventneedz-d6a56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019153374996:android:891b449faefe8f88456c01",
+        "android_client_info": {
+          "package_name": "com.rentsell.eventneedz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019153374996-s9hrlvfa6426e8jbii5ejsj9jkvjse0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rentsell.eventneedz",
+            "certificate_hash": "13482a371ea77ab0179829e543a37e7746728ae3"
+          }
+        },
+        {
+          "client_id": "1019153374996-sci1js3s81ppnb1tf0b67fq4pkj8evlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRKVHAhvyEalqUgsuLVa8IYmtxPlg5q_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019153374996-sci1js3s81ppnb1tf0b67fq4pkj8evlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
