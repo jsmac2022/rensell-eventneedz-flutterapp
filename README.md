@@ -1,6 +1,6 @@
 # eventneedz
 
-A new Flutter project.
+A new Flutter project. Product sell and rent on the given application  
 
 ## Getting Started
 
